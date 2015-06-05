@@ -5,8 +5,8 @@ public:
         int n = t.size();
         if(m != n)
             return false;
-        unordered_map<char, char> m1;   //s --> t
-        unordered_map<char, char> m2;   //t --> s
+        unordered_map<char, char> m1;   //s -> t
+        unordered_map<char, char> m2;   //t -> s
         for(int i = 0; i < m; i ++)
         {
             char schar = s[i];
