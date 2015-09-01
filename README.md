@@ -24,4 +24,4 @@ My solutions of LeetCode Questions
 | 18   |[Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Merge%20Sorted%20Array.java)|2015/7/9| Easy|
 | 19   |[Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Maximum%20Subarray.java)|2015/7/9| Medium|
 | 20   |[Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Maximum%20Depth%20of%20Binary%20Tree.cpp)|2015/7/9| Easy|
-| 21   |[Majority Element ](https://leetcode.com/problems/majority-element/)|[Java]https://github.com/TonyFromDire/LeetCode/blob/master/src/Majority%20Element.java)|2015/7/9| Easy|
+| 21   |[Majority Element ](https://leetcode.com/problems/majority-element/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Majority%20Element.java)|2015/7/9| Easy|
