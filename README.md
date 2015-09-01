@@ -14,4 +14,7 @@ My solutions of LeetCode Questions
 | 8   |[Search Insert Position ](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Search%20Insert%20Position.cpp)|2015/7/2| Medium|
 | 9   |[Same Tree ](https://leetcode.com/problems/same-tree/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Same%20Tree.cpp)|2015/7/2| Easy|
 | 10   |[Roman to Integer ](https://leetcode.com/problems/roman-to-integer/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Roman%20to%20Integer.java)|2015/7/2| Easy|
-| 10   |[Reverse Integer ](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Reverse%20Integer.cpp)|2015/7/2| Easy|
+| 11   |[Reverse Integer ](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Reverse%20Integer.cpp)|2015/7/2| Easy|
+| 12   |[Reverse Bits ](https://leetcode.com/problems/reverse-bits/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Reverse%20Bits.cpp)|2015/7/2| Easy|
+| 13   |[Remove Element ](https://leetcode.com/problems/remove-element/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Remove%20Element.java)|2015/7/2| Easy|
+| 14   |[Remove Duplicates from Sorted List ](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Remove%20Duplicates%20from%20Sorted%20List.cpp)|2015/7/2| Easy|
