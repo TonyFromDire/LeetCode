@@ -18,3 +18,10 @@ My solutions of LeetCode Questions
 | 12   |[Reverse Bits ](https://leetcode.com/problems/reverse-bits/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Reverse%20Bits.cpp)|2015/7/2| Easy|
 | 13   |[Remove Element ](https://leetcode.com/problems/remove-element/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Remove%20Element.java)|2015/7/2| Easy|
 | 14   |[Remove Duplicates from Sorted List ](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Remove%20Duplicates%20from%20Sorted%20List.cpp)|2015/7/2| Easy|
+| 15   |[Palindrome Number ](https://leetcode.com/problems/palindrome-number/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Palindrome%20Number.java)|2015/7/2| Easy|
+| 16   |[Number of 1 Bits ](https://leetcode.com/problems/number-of-1-bits/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Number%20of%201%20Bits.cpp)|2015/7/9| Easy|
+| 17   |[Merge Two Sorted Lists ](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Merge%20Two%20Sorted%20Lists.java)|2015/7/9| Easy|
+| 18   |[Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Merge%20Sorted%20Array.java)|2015/7/9| Easy|
+| 19   |[Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Maximum%20Subarray.java)|2015/7/9| Medium|
+| 20   |[Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Maximum%20Depth%20of%20Binary%20Tree.cpp)|2015/7/9| Easy|
+| 21   |[Majority Element ](https://leetcode.com/problems/majority-element/)|[Java]https://github.com/TonyFromDire/LeetCode/blob/master/src/Majority%20Element.java)|2015/7/9| Easy|
