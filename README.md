@@ -9,3 +9,5 @@ My solutions of LeetCode Questions
 | 3   |[Isomorphic Strings ](https://leetcode.com/problems/isomorphic-strings/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/plus%20one.java)|2015/6/5| Easy|
 | 4   |[Single Number ](https://leetcode.com/problems/single-number/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Single%20Number.java)|2015/7/1| Medium|
 | 5   |[Single Number II ](https://leetcode.com/problems/single-number-ii/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Single%20Number%20II.java)|2015/7/2| Medium|
+| 6   |[Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Valid%20Parentheses.cpp)|2015/7/2| Medium|
+| 7   |[Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Valid%20Parentheses.cpp)|2015/7/2| Easy|
