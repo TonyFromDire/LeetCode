@@ -25,3 +25,6 @@ My solutions of LeetCode Questions
 | 19   |[Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Maximum%20Subarray.java)|2015/7/9| Medium|
 | 20   |[Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Maximum%20Depth%20of%20Binary%20Tree.cpp)|2015/7/9| Easy|
 | 21   |[Majority Element ](https://leetcode.com/problems/majority-element/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Majority%20Element.java)|2015/7/9| Easy|
+| 22   |[Length of Last Word ](https://leetcode.com/problems/length-of-last-word/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Length%20of%20Last%20Word.cpp)|2015/7/16| Easy|
+| 23   |[Isomorphic Strings ](https://leetcode.com/problems/isomorphic-strings/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Isomorphic%20Strings.java)|2015/7/17| Easy|
+| 24   |[Integer to Roman ](https://leetcode.com/problems/integer-to-roman/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Integer%20to%20Roman.java)|2015/7/17| Medium|
