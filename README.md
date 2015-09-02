@@ -39,3 +39,4 @@ My solutions of LeetCode Questions
 | 33   |[Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)|2015/8/5| Medium|
 | 34   |[Best Time to Buy and Sell Stock III ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.cpp)|2015/8/5| Hard|
 | 35   |[3 sum ](https://leetcode.com/problems/3sum/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/3%20sum.java)|2015/8/5| Medium|
+| 36   |[Delete Node in a Linked List ](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Delete%20Node%20in%20a%20Linked%20List.java)|2015/8/5| Easy|
