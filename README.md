@@ -45,3 +45,6 @@ My solutions of LeetCode Questions
 | 39   |[Product of Array Except Self  ](https://leetcode.com/problems/product-of-array-except-self/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Product%20of%20Array%20Except%20Self.java)|2015/8/10| Medium|
 | 40   |[Valid Anagram ](https://leetcode.com/problems/valid-anagram/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Valid%20Anagram.java)|2015/8/10| Easy|
 | 41   |[Combination Sum ](https://leetcode.com/problems/combination-sum/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Combination%20Sum.java)|2015/8/16| Medium|
+| 42   |[Compare Version Numbers ](https://leetcode.com/problems/compare-version-numbers/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Compare%20Version%20Numbers.java)|2015/8/16| Medium|
+| 43   |[Count Primes ](https://leetcode.com/problems/count-primes/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Count%20Primes.java)|2015/8/20| Medium|
+| 44   |[Factorial Trailing Zeroes ](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Factorial%20Trailing%20Zeroes.java)|2015/8/20| Easy|
