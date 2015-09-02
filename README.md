@@ -48,3 +48,4 @@ My solutions of LeetCode Questions
 | 42   |[Compare Version Numbers ](https://leetcode.com/problems/compare-version-numbers/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Compare%20Version%20Numbers.java)|2015/8/16| Medium|
 | 43   |[Count Primes ](https://leetcode.com/problems/count-primes/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Count%20Primes.java)|2015/8/20| Medium|
 | 44   |[Factorial Trailing Zeroes ](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Factorial%20Trailing%20Zeroes.java)|2015/8/20| Easy|
+| 45   |[Find Minimum in Rotated Sorted Array ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)|2015/8/20| Medium|
