@@ -29,7 +29,7 @@ My solutions of LeetCode Questions
 | 23   |[Isomorphic Strings ](https://leetcode.com/problems/isomorphic-strings/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Isomorphic%20Strings.java)|2015/7/17| Easy|
 | 24   |[Integer to Roman ](https://leetcode.com/problems/integer-to-roman/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Integer%20to%20Roman.java)|2015/7/17| Medium|
 | 25   |[House Robber ](https://leetcode.com/problems/house-robber/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/House%20Robber%20.java)|2015/7/17| Easy|
-| 26   |[Happy Number ](https://leetcode.com/problems/happy-number/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Happy%20Number.java)|2015/7/27| Easy|
+| 26   |[Happy Number ](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/TonyFromDire/LeetCode/blob/master/src/Happy%20Number.cpp)|2015/7/27| Easy|
 | 27   |[Excel Sheet Column Title ](https://leetcode.com/problems/excel-sheet-column-title/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Excel%20Sheet%20Column%20Title.java)|2015/7/27| Easy|
 | 28   |[Excel Sheet Column Number ](https://leetcode.com/problems/excel-sheet-column-number/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Excel%20Sheet%20Column%20Number.java)|2015/7/27| Easy|
 | 29   |[Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Contains%20Duplicate.java)|2015/8/5| Easy|
@@ -44,3 +44,4 @@ My solutions of LeetCode Questions
 | 38   |[Linked List Cycle ](https://leetcode.com/problems/linked-list-cycle/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Linked%20List%20Cycle.java)|2015/8/10| Easy|
 | 39   |[Product of Array Except Self  ](https://leetcode.com/problems/product-of-array-except-self/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Product%20of%20Array%20Except%20Self.java)|2015/8/10| Medium|
 | 40   |[Valid Anagram ](https://leetcode.com/problems/valid-anagram/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Valid%20Anagram.java)|2015/8/10| Easy|
+| 41   |[Combination Sum ](https://leetcode.com/problems/combination-sum/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Combination%20Sum.java)|2015/8/16| Medium|
