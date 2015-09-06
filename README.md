@@ -49,3 +49,8 @@ My solutions of LeetCode Questions
 | 43   |[Count Primes ](https://leetcode.com/problems/count-primes/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Count%20Primes.java)|2015/8/20| Medium|
 | 44   |[Factorial Trailing Zeroes ](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Factorial%20Trailing%20Zeroes.java)|2015/8/20| Easy|
 | 45   |[Find Minimum in Rotated Sorted Array ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)|2015/8/20| Medium|
+| 46   |[Find Peak Element ](https://leetcode.com/problems/find-peak-element/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Find%20Peak%20Element.java)|2015/8/20| Medium|
+| 47   |[Group Anagrams ](https://leetcode.com/problems/anagrams/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Group%20Anagrams.java)|2015/8/20| Medium|
+| 48   |[House Robber II ](https://leetcode.com/problems/house-robber-ii/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/House%20Robber%20II.java)|2015/8/20| Medium|
+| 49   |[Implement Queue using Stacks ](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Implement%20Queue%20using%20Stacks.java)|2015/8/20| Easy|
+| 50   |[Implement Stack using Queues  ](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Implement%20Stack%20using%20Queues.java)|2015/8/20| Easy|
