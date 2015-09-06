@@ -54,3 +54,8 @@ My solutions of LeetCode Questions
 | 48   |[House Robber II ](https://leetcode.com/problems/house-robber-ii/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/House%20Robber%20II.java)|2015/8/20| Medium|
 | 49   |[Implement Queue using Stacks ](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Implement%20Queue%20using%20Stacks.java)|2015/8/20| Easy|
 | 50   |[Implement Stack using Queues  ](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Implement%20Stack%20using%20Queues.java)|2015/8/20| Easy|
+| 51   |[Implement strStr() ](https://leetcode.com/problems/implement-strstr/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Implement%20strStr().java)|2015/8/27| Easy|
+| 52   |[Intersection of Two Linked Lists ](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Intersection%20of%20Two%20Linked%20Lists.java)|2015/8/27| Easy|
+| 50   |[Implement Stack using Queues  ](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Implement%20Stack%20using%20Queues.java)|2015/8/27| Easy|
+| 50   |[Implement Stack using Queues  ](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Implement%20Stack%20using%20Queues.java)|2015/8/27| Easy|
+| 50   |[Implement Stack using Queues  ](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Implement%20Stack%20using%20Queues.java)|2015/8/27| Easy|
