@@ -56,6 +56,6 @@ My solutions of LeetCode Questions
 | 50   |[Implement Stack using Queues  ](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Implement%20Stack%20using%20Queues.java)|2015/8/20| Easy|
 | 51   |[Implement strStr() ](https://leetcode.com/problems/implement-strstr/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Implement%20strStr().java)|2015/8/27| Easy|
 | 52   |[Intersection of Two Linked Lists ](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Intersection%20of%20Two%20Linked%20Lists.java)|2015/8/27| Easy|
-| 50   |[Implement Stack using Queues  ](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Implement%20Stack%20using%20Queues.java)|2015/8/27| Easy|
-| 50   |[Implement Stack using Queues  ](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Implement%20Stack%20using%20Queues.java)|2015/8/27| Easy|
-| 50   |[Implement Stack using Queues  ](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Implement%20Stack%20using%20Queues.java)|2015/8/27| Easy|
+| 53   |[Longest Consecutive Sequence ](https://leetcode.com/problems/longest-consecutive-sequence/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Longest%20Consecutive%20Sequence.java)|2015/8/27| Hard|
+| 54   |[Min Stack ](https://leetcode.com/problems/min-stack/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Min%20Stack.java)|2015/9/1| Easy|
+| 55   |[Minimum Path Sum ](https://leetcode.com/problems/minimum-path-sum/)|[Java](https://github.com/TonyFromDire/LeetCode/blob/master/src/Minimum%20Path%20Sum.java)|2015/9/1| Medium|
